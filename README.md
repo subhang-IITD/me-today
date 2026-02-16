@@ -29,6 +29,7 @@ me-today
 ## 📸 Demo
 
 <!-- Paste your demo video URL here -->
+https://github.com/subhang-IITD/me-today/blob/main/export-1771240819697%20(1).mp4
 
 ## 🛠️ Commands
 
