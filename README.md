@@ -28,8 +28,16 @@ me-today
 
 ## 📸 Demo
 
-<!-- Paste your demo video URL here -->
-https://github.com/subhang-IITD/me-today/blob/main/export-1771240819697%20(1).mp4
+<p align="center">
+  <a href="https://github.com/subhang-IITD/me-today/blob/main/export-1771240819697%20(1).mp4">
+    <img src="https://raw.githubusercontent.com/subhang-IITD/me-today/main/demo-preview.png" width="800" alt="me-today demo"/>
+  </a>
+</p>
+
+<p align="center">
+  ▶ Click the image above to watch the demo video
+</p>
+
 
 ## 🛠️ Commands
 
